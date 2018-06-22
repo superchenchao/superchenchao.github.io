@@ -1,0 +1,44 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_spriteFrames": {
+    "bg_1": {
+      "__uuid__": "0foRrOqVVHqZYRARoq2Y6F"
+    },
+    "platform": {
+      "__uuid__": "51vU9CsoJKta7QtIobI4KC"
+    },
+    "spring": {
+      "__uuid__": "24EjYgbCdMZqiM5lDaeABX"
+    },
+    "nail": {
+      "__uuid__": "f3yh854nRP8o/TrsIDT8+d"
+    },
+    "player": {
+      "__uuid__": "406XNag95OlLczoRNC/vzB"
+    },
+    "bg_2": {
+      "__uuid__": "2cEFLEg/hOSaaApn0R0khd"
+    },
+    "bg_3": {
+      "__uuid__": "8bjo9zFLlOyqXsJ1touWmt"
+    },
+    "bg_4": {
+      "__uuid__": "a5Z75sVJVOi4IvYhnHshbK"
+    },
+    "bg_5": {
+      "__uuid__": "63s5FqMNVPj5Tok3KjZDtu"
+    },
+    "bg_6": {
+      "__uuid__": "66FLB/xZ5F3LEXoYpA7l/F"
+    },
+    "bg_7": {
+      "__uuid__": "78bR5SrOtF4LFv+qCxOP69"
+    },
+    "bg_8": {
+      "__uuid__": "93tyFYISZHsqg8PPz51RyP"
+    },
+    "bg_9": {
+      "__uuid__": "e8u1GN9TFIBaP+OCUwzZ0x"
+    }
+  }
+}
