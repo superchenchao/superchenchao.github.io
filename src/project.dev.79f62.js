@@ -328,7 +328,8 @@ require = function() {
         this.node.parent.zIndex = 2;
       },
       onCollisionStay: function onCollisionStay(other) {
-        1 == other.tag || 2 == other.tag && this.down_lock || 3 == other.tag;
+        cc.log("this.down_lock,,,,,", this.down_lock);
+        1 == other.tag || (2 == other.tag && this.down_lock ? cc.log("2222222222", other) : 3 == other.tag);
       },
       onTouchStart: function onTouchStart(event) {
         this.lock = true;
